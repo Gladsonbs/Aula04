@@ -1,4 +1,5 @@
 
+
 public class NavegandoCommits {
 
 	public static void main(String[] args) {
@@ -6,7 +7,7 @@ public class NavegandoCommits {
 		 * Não vamos escrever código nesse arquivo... 
 		 * Ele é apenas para te mostrar a importância de poder navegar.*/
 
-		System.out.println("Teste");
+		
 		
 	}
 
